@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 
 <h1 align="center">Hi there, I'm Seang Darong! 👋</h1>
 
 <p align="center">
   💻 Passionate about learning and building cool things with code<br/>
   🧑‍🎓 Computer Science Student | Future Software Engineer<br/>
-  🎮 Cat lover & Genshin Impact player
 </p>
 
 ## 🧰 Tools & Technologies
@@ -21,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
 </p>
@@ -43,5 +39,5 @@
 <p>
   💌 Reach me through: <br>
   📧 Email: darong6126@gmail.com <br>
-  🐱 GitHub: [darongSeang](https://github.com/darongSeang)
+  🐱 GitHub: [seangDarong](https://github.com/seangDarong)
 </p>
