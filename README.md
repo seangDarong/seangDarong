@@ -1,4 +1,4 @@
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 <p align="left">
   <!-- Languages -->
@@ -27,17 +27,20 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seangDarong&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=seangDarong&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seangDarong&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seangDarong" />
 </p>
+
+
+
+
 
 
 ---
 
-## 💬 Let's Connect
+##  Let's Connect
 
 <p>
   📧 Email: darong6126@gmail.com <br>
