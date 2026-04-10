@@ -1,48 +1,96 @@
-##  Tools & Technologies
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
----
-
-## GitHub Stats
+<h1 align="center">Hi 👋, I'm Seang Darong</h1>
+<h3 align="center">💻 Software Engineering Student</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seangDarong" />
+  <a href="mailto:darong6126@gmail.com">📧 Email</a> •
+  <a href="https://github.com/seangDarong">🐱 GitHub</a>
 </p>
-
-
-
-
-
 
 ---
 
-##  Let's Connect
+## 🚀 About Me
 
+- 🎓 3rd Year Computer Science Student (CADT)
+- 💡 Interested in **Backend Development**
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
 <p>
-  📧 Email: darong6126@gmail.com <br>
-  🐱 GitHub: <a href="https://github.com/seangDarong">seangDarong</a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,dart,html,css" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🎮 Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform" />
+</p>
+
+---
+## 📊 Language Usage
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seangDarong&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seangDarong&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seangDarong&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=seangDarong&theme=tokyonight&hide_border=true"/>
+</p>
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seangDarong&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building scalable backend systems  
+- ☁️ Deploying apps using AWS & Docker  
+- 🎮 Learning Unity & game mechanics  
+- 📊 Improving system design skills  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:darong6126@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Darong-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/seangDarong">
+    <img src="https://img.shields.io/badge/GitHub-seangDarong-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
