@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Seang Darong</h1>
-<h3 align="center">💻 Software Engineering Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Backend+Developer;Cloud+Enthusiast;AWS+%7C+Docker+%7C+Node.js;Always+learning+new+things&center=true&width=500&height=45">
+</p>
 
 <p align="center">
   <a href="mailto:darong6126@gmail.com">📧 Email</a> •
@@ -10,8 +13,15 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd Year Computer Science Student (CADT)
-- 💡 Interested in **Backend Development**
+- 🎓 3rd Year Computer Science Student (CADT)  
+- 💡 Passionate about **Backend Development**  
+---
+
+## 💼 Open to Opportunities
+
+🎯 **Looking for:** Software Engineering Internship  
+📍 **Location:** Phnom Penh / Remote  
+📅 **Availability:** 2026  
 
 ---
 
@@ -46,8 +56,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,terraform" />
 </p>
-
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -58,6 +68,15 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=seangDarong&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🧠 Currently Learning
+
+- System Design (Scalability, Load Balancing)  
+- AWS Architecture & Deployment  
+- Backend Performance Optimization  
+
 ---
 
 ## 📈 Activity Graph
@@ -68,14 +87,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 🚀 Building scalable backend systems  
-- ☁️ Deploying apps using AWS & Docker  
-- 🎮 Learning Unity & game mechanics  
-- 📊 Improving system design skills  
-
----
 
 ## 🤝 Connect With Me
 
