@@ -17,13 +17,6 @@
 - 💡 Passionate about **Backend Development**  
 ---
 
-## 💼 Open to Opportunities
-
-🎯 **Looking for:** Software Engineering Internship  
-📍 **Location:** Phnom Penh / Remote  
-📅 **Availability:** 2026  
-
----
 
 ## 🧠 Tech Stack
 
